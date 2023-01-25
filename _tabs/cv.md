@@ -30,7 +30,7 @@ Researcher at the Centre of Australian Category Theory.
 
 `2016-2022`
 __Tutor. The University of Sydney - School of Mathematics and Statistics.__  
-Running tutorial classes and coding labratories for a range of undergradate courses in mathematics and statistics.
+Running tutorial classes and coding labratories for a range of undergradate courses in mathematics and statistics [(feedback sample)](/Teaching%20in%20Tutorials.pdf).
 
 `2017-2018`
 __Private tutor. The University of Sydney - Disability Services.__  
@@ -41,13 +41,13 @@ Providing personalised tuition and academic support for disabled students in und
 ## Publications
 
 `2022`
-__G. Wiggins. Stratified categories and a geometric approach to representations of the Schur algebra__  
+[__G. Wiggins. Stratified categories and a geometric approach to representations of the Schur algebra__](/GWigginsThesis.pdf)  
 Dissertation (University of Sydney)
 
 
 `2019`
-__G. Wiggins. Presentations of categories of modules using the Cautis-Kamnitzer-Morrison principle__  
-Journal of Combinatorial Algebra, Vol. 3, Issue 1, 2019, pp. 71-112
+[__G. Wiggins. Presentations of categories of modules using the Cautis-Kamnitzer-Morrison principle__](https://ems.press/journals/jca/articles/16026)  
+Journal of Combinatorial Algebra, Vol. 3, Issue 1, 2019, pp. 71-112 [(arxiv:1803.02942)](https://arxiv.org/abs/1803.02942)
 
 - - -
 
@@ -84,8 +84,8 @@ __Masterclass: Tensor triangular geometry and equivariant stable homotopy theory
 ## Conference Organising
 
 `2021`
-__Categories and Companions 2021.__  
-A seminar for young category theorists in Australia.
+[__Categories and Companions 2021.__](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/) 
+A seminar for research students in category theory.
 
 `2018-2020`
 __USYD Mathematics Postgraduate Seminar.__ 
