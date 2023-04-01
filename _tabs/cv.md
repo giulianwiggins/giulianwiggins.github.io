@@ -40,6 +40,10 @@ Providing personalised tuition and academic support for disabled students in und
 
 ## Publications
 
+`2023`
+[__G. Wiggins. Stratifications of abelian categories__](https://arxiv.org/abs/2303.14925)\
+Preprint
+
 `2022`
 [__G. Wiggins. Stratified categories and a geometric approach to representations of the Schur algebra__](/GWigginsThesis.pdf)  
 Dissertation (University of Sydney)
@@ -54,11 +58,12 @@ Journal of Combinatorial Algebra, Vol. 3, Issue 1, 2019, pp. 71-112 [(arxiv:1803
 ## Programming Languages
 
 __Python__  
-Advanced knowledge and experience.
-
+Advanced knowledge and experience of python for scientific programming and
+data science. Proficient in **pandas**, and **skit-learn** libraries for data manipulation
+and machine learning applications.
 
 __R__  
-Basic competency with data and statistical modelling tasks.
+Some experience with data wrangling and data visualization.
 
 - -  -
 
