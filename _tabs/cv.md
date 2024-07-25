@@ -90,7 +90,7 @@ __Masterclass: Tensor triangular geometry and equivariant stable homotopy theory
 --> 
 
 
-## Conference Co-Organisor Roles
+## Conference Co-Organisor
 
 `2021`
 [__Categories and Companions 2021.__](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/) 
