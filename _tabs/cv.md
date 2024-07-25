@@ -8,6 +8,24 @@ title: CV
 
 - - - 
 
+## Employment
+
+`2016-2022, 2024-`
+__Tutor. The University of Sydney - School of Mathematics and Statistics.__  
+Running tutorial classes and programming labs for  undergradate courses in mathematics and statistics [(feedback sample)](/Teaching%20in%20Tutorials.pdf).
+
+`2022-2023`
+__Postdoctoral Researcher. Macquarie University.__  
+Researcher at the Centre of Australian Category Theory.
+
+
+
+`2017-2018`
+__Private tutor. The University of Sydney - Disability Services.__  
+Providing personalised tuition and academic support for disabled students in undergraduate mathematics. 
+
+- - - 
+
 ## Education
 
 `2018-2022`
@@ -22,21 +40,7 @@ Major: Pure Mathematics
 
 - - -
 
-## Employment
 
-`2022-    `
-__Postdoctoral Researcher. Macquarie University.__  
-Researcher at the Centre of Australian Category Theory.
-
-`2016-2022`
-__Tutor. The University of Sydney - School of Mathematics and Statistics.__  
-Running tutorial classes and coding labratories for a range of undergradate courses in mathematics and statistics [(feedback sample)](/Teaching%20in%20Tutorials.pdf).
-
-`2017-2018`
-__Private tutor. The University of Sydney - Disability Services.__  
-Providing personalised tuition and academic support for disabled students in undergraduate mathematics. 
-
-- - - 
 
 ## Publications
 
@@ -86,7 +90,7 @@ __Masterclass: Tensor triangular geometry and equivariant stable homotopy theory
 --> 
 
 
-## Conference Organising
+## Conference Co-Organisor Roles
 
 `2021`
 [__Categories and Companions 2021.__](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/) 
